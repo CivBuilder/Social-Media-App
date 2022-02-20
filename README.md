@@ -1,3 +1,5 @@
+As a disclaimer, this thing is absolutely awful. I only spent an hour doing it and simply did it to learn react. It's super Libertarian/tinfoil hat. Proceed at your own risk.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
